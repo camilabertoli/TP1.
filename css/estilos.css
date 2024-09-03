@@ -1,0 +1,32 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,800;0,900;1,300;1,400&family=Oswald:wght@200..700&display=swap');
+
+body, p + h3 { font-family: "Be Vietnam Pro", sans-serif;}
+
+body { 
+    
+    background-color:azure;
+    color: #000000;
+font-family: "Be Vietnam Pro";
+font-size: 25px;
+}
+
+h1, h2, h3 {  font-family: "Oswald";
+font-weight:700;
+color:black;
+}
+
+h1 { font-weight:900;
+text-decoration: underline;
+text-align: center;
+}
+
+h2 { font-weight:700;}
+
+h3 {font-weight:200;}
+
+
+
+p + h3 { 
+    font-weight: 100;
+    font-family: "Oswald"
+}
